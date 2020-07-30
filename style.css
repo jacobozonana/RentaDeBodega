@@ -1,0 +1,40 @@
+.sugerencias{
+    padding: 30px;
+    text-align: center;
+}
+
+.texto{
+	color: grey;
+}
+.mapa{
+	padding: 20px;
+}
+.boton{
+        margin: 0 30%;
+}
+.form{
+        margin-top: 10px;
+}
+.bot{
+    margin-bottom: 10px;
+}
+.f{
+    padding:10px;
+}
+a{
+    color: #636669;
+}
+#carouselExampleControls{
+    width: 350px;
+}
+.tamfot{
+    height: 300px;
+    width: 500px;
+}
+#carouselExampleControls{
+    width: 650px;
+}
+.brand{
+    display: flex;
+    justify-content: space-around;
+}
