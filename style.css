@@ -38,3 +38,6 @@ a{
     display: flex;
     justify-content: space-around;
 }
+.font{
+    font-family: 'Montserrat', sans-serif;
+}
