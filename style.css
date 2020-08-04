@@ -41,3 +41,7 @@ a{
 .font{
     font-family: 'Montserrat', sans-serif;
 }
+
+.texto{
+    margin: 20px;
+}
