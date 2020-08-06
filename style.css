@@ -50,3 +50,7 @@ a{
     font: 30px Tahoma, Helvetica, Arial, Sans-Serif;
 	text-align: center;
 }
+.responsive {
+    width: 100%;
+    height: 100%;
+  }
