@@ -44,4 +44,9 @@ a{
 
 .texto{
     margin: 20px;
+    padding: 8px
+}
+.estilo{
+    font: 30px Tahoma, Helvetica, Arial, Sans-Serif;
+	text-align: center;
 }
